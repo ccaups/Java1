@@ -57,5 +57,4 @@ public class Lesson2cSolution {
         }
         return x;
     }
-
 }

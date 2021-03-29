@@ -12,7 +12,7 @@ public class Lesson1 {
         //int a  = scanner.nextInt();
         //int b  = scanner.nextInt();
         //System.out.println("Nendest numbrite miinimum on: " + min(a,b));
-        System.out.println(isEven(34));
+        //System.out.println(isEven(34));
 
     }
 

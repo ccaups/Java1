@@ -1,7 +1,7 @@
 package ee.bcs.java.demo.tasks.lesson1;
 
 import java.util.Scanner;
-
+//as
 // TODO kasuta if/else. Ära kasuta Math librarit
 public class Lesson1 {
     public static void main(String[] args) {
